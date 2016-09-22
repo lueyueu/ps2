@@ -19,6 +19,8 @@ public class MyInteger_Test {
 	public void test() {
 
 		
+		
+		
 		//First set
 		assertTrue(firstNbr.isEven());
 		assertFalse(SecondNbr.isEven());
